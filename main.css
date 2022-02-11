@@ -1,0 +1,83 @@
+.main-nav {
+    background-color: darkcyan;
+    height: 50px;
+}
+.nav-add ,.nav-list {
+    color: white;
+}
+
+#btn {
+    text-align: right;
+}
+#a-del, #a-edit {
+    text-decoration: none;
+    color:darkcyan;
+    margin-right: 10px;
+}
+.div-head {
+    width: 35%;
+    height: 45%;
+    margin: 0 auto;
+}
+.p-head {
+    font-weight: 500;
+    font-size: 34px;
+    color: darkcyan;
+    margin: 0 auto;
+}  
+
+
+.card-main {
+    width: 80%;
+    box-shadow:  5px 5px 20px rgba(0, 0, 0, 0.384);
+}
+.main-div{
+    margin-top: 50px;
+}
+.main-div-add {
+    font-weight: 400;
+    color: gray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 550px;
+
+}
+.div-add-form {
+    width: 70%;
+    
+}
+.form-inputs {
+    text-decoration: none;
+    border: none;
+    margin-bottom: 30px;
+  
+}
+.add-book {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+}
+.btn-div {
+    text-align: right;
+}
+.btn-save {
+    background-color: darkcyan;
+}
+.p-add {
+    font-size: 38px;
+}
+.label-txt {
+    color: gray;
+    font-size: 18px;
+    font-weight: 300;
+}
+#input1 , #input2 , #input3{
+    text-align: right;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+span{
+    font-size: 18px;
+    font-weight: 500;
+}
