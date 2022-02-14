@@ -31,6 +31,9 @@
     width: 80%;
     box-shadow:  5px 5px 20px rgba(0, 0, 0, 0.384);
 }
+.card-main:hover{
+   border-color: blue;
+}
 .main-div{
     margin-top: 50px;
 }
