@@ -3,13 +3,7 @@ function kliknij1(idCard) {
 } 
 
 function licznik(){
-//     const max = 50
-//     const length = input.value.length
-//     if(length > max) {
-//         input.value = input.value.substring(0,50);
-//     }
-//     $('#input1').text(length)
-// }
+
     const tytul = document.getElementById('exampleFormControlTytul');
     const inpTytul = document.getElementById('input1');
     const count = tytul.value.replace(/ /g, "").length;
